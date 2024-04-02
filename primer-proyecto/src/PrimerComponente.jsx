@@ -2,7 +2,7 @@ import './componente.css'
 import  PropTypes  from 'prop-types'
 
 
-//se borro el react porque igual sirve
+//se borro el react porque igual sirve ...
 export const PrimerComponente = ({titulo, sub, elvin="que te importa"}) => {
   return (
     //<></>: este se usa actualmente y es un padre donde
